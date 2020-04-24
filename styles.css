@@ -1,0 +1,31 @@
+body {
+	background-color: #f2e7cf;
+	color: #501810;
+}
+
+section {
+	width: 30em;
+	border: 3px solid #501810;
+	padding: 10px;
+	margin: auto;
+}
+
+.spell h1,p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+
+}
+
+.copyright {
+	font-size: x-small;
+}
+
+.copyright p {
+	margin-top: 0.5em;
+	margin-bottom: 0em;
+}
+
+.copyright hr {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
